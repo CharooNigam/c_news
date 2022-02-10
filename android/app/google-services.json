@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821563356788",
+    "project_id": "c-news-5b24d",
+    "storage_bucket": "c-news-5b24d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821563356788:android:19466d5c40c83d6b620321",
+        "android_client_info": {
+          "package_name": "com.charoo.c_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821563356788-r8l4jm74ml01fujp5a2uug8fhrr416p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW1l1TqB7VAtVMmtviq4o_NtKesP3GdV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821563356788-r8l4jm74ml01fujp5a2uug8fhrr416p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
